@@ -1,2 +1,3 @@
 # kenken
-KenKen creation script
+
+My attempt at creating KenKen games randomly.
